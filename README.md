@@ -22,13 +22,13 @@ This section downloads and installs pyspark
 The schema of the data is defined, the data is loaded and saved in parquet files for faster retrieval 
 
 ### Apply some distributed algorithms
-In this section a filter is applied for the beijing area, and the data is categorized into 4 "time of day" categories. 
+In this section a filter is applied for Beijing area, and the data is categorized into 4 "time of day" categories. 
 Two clustering algorithms are run on the whole data and each of its categories 
 
 ### Comparison of user 0 trajectory to kmeans clustering 
 This section deals with the visualisation of the data and the clusters on a map. 
 
 ### Result evaluation
-In this section the clustering results are evaluated by comparison to popular locations on the map 
+In this section the clustering results (clustering centers) are evaluated by comparison to popular locations on the map 
 
 
